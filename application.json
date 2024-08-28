@@ -1,0 +1,21 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "P.persons",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFDEDE",
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "viewerLayout": "{\"color\":\"var(--ads-color-brand)\",\"logoUrl\":\"\",\"name\":\"My first application\",\"treeData\":[{\"title\":\"Page1\",\"pageId\":\"66ceea519d28026fe788c98a\",\"isPage\":true,\"icon\":\"arrow\"},{\"title\":\"P.persons\",\"pageId\":\"66ceec0e9d28026fe788c993\",\"isPage\":true,\"icon\":\"arrow\"},{\"title\":\"商户管理\",\"icon\":\"arrow\",\"expanded\":true,\"children\":[{\"title\":\"新建商户\"}]},{\"title\":\"渠道管理\",\"icon\":\"arrow\"},{\"title\":\"支付管理\",\"icon\":\"arrow\"}],\"outsiderTree\":[]}",
+  "deleted": false
+}
